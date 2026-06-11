@@ -1,5 +1,3 @@
-<img width="930" height="288" alt="prever-iris" src="https://github.com/user-attachments/assets/9e32ed3e-d2c4-4519-a1fc-79ed5949eb01" />
-
 # 🌸 Classificador de Espécies de Flores com Machine Learning
 
 Projeto desenvolvido em Python utilizando técnicas de Machine Learning para classificação automática de flores do dataset Iris.
@@ -216,11 +214,13 @@ O modelo apresentou desempenho superior a 95% de acurácia no conjunto de teste,
 
 ### Execução do Treinamento
 
-![Execução do Treinamento](imagens/main_execução.png)
+![Execução do Treinamento](imagens/main_execução.jpeg)
 
 ### Previsão Interativa
 
-![Previsão Interativa](imagens/prever_execução.png)
+<img width="930" height="288" alt="prever-iris" src="https://github.com/user-attachments/assets/9e32ed3e-d2c4-4519-a1fc-79ed5949eb01" />
+
+![Previsão Interativa](imagens/prever_execução.jpeg)
 
 ---
 
