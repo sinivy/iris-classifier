@@ -214,13 +214,13 @@ O modelo apresentou desempenho superior a 95% de acurácia no conjunto de teste,
 
 ### Execução do Treinamento
 
-![Execução do Treinamento](imagens/main_execução.jpeg)
+![Execução do Treinamento](main_execução.jpeg)
 
 ### Previsão Interativa
 
 <img width="930" height="288" alt="prever-iris" src="https://github.com/user-attachments/assets/9e32ed3e-d2c4-4519-a1fc-79ed5949eb01" />
 
-![Previsão Interativa](imagens/prever_execução.jpeg)
+![Previsão Interativa](prever_execução.jpeg)
 
 ---
 
